@@ -1,0 +1,5 @@
+This is the stuff i typed into a file
+It is realy cool stuff
+Lots and lots of fun to have in here
+It tells how to read a file in python 
+Thank you Bye bye :)-

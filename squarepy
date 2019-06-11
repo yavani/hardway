@@ -1,0 +1,8 @@
+
+
+def square(n)
+	sq= n**2
+	print(f"square of {n} is {sq}")
+
+n= input(">> ")
+square(n)

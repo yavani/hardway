@@ -1,0 +1,22 @@
+set number to line - set number (se nu)
+remove number - set nonumber (se nonu)
+remove line dd
+goto line#5: example 5 and then press SHIFT + G.
+delete a character: x
+delete a line:dd
+delete word: goto start of the word and do dw
+goto end of file: SHIFT + G
+goto end of line: SHIFT 4
+goto start of file: SHIFT 6
+copy  text: select text to copy and then do : ALT + C
+paste text: ALT + V.
+============
+open new terminal: ALT + T
+change to terminal 1: CMD + 1
+
+
+******************************************
+Interview preparation 
+
+https://www.youtube.com/watch?v=OHhoLhYW2cg
+nbnguxxxxx
